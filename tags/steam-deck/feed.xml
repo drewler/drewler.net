@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>drewler.net</title>
+      <link>https://drewler.net/blog</link>
+      <description>Personal blog</description>
+      <language>en-us</language>
+      <managingEditor>undefined (Andrés Barreiro)</managingEditor>
+      <webMaster>undefined (Andrés Barreiro)</webMaster>
+      <lastBuildDate>Sun, 17 Dec 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://drewler.net/tags/steam-deck/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://drewler.net/blog/2023/12/godot-steam-deck-export-ssh</guid>
+    <title>Exporting for Steam Deck with Godot</title>
+    <link>https://drewler.net/blog/2023/12/godot-steam-deck-export-ssh</link>
+    <description>Guide for exporting a Godot project to the Steam Deck for development purposes.</description>
+    <pubDate>Sun, 17 Dec 2023 00:00:00 GMT</pubDate>
+    <author>undefined (Andrés Barreiro)</author>
+    <category>godot</category><category>steam deck</category><category>gamedev</category><category>tutorial</category>
+  </item>
+
+    </channel>
+  </rss>
