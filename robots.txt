@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://drewler.net
+Sitemap: https://drewler.net/sitemap.xml

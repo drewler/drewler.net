@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://drewler.net/</loc>
+<lastmod>2023-12-17</lastmod>
+</url>
+<url>
+<loc>https://drewler.net/blog</loc>
+<lastmod>2023-12-17</lastmod>
+</url>
+<url>
+<loc>https://drewler.net/projects</loc>
+<lastmod>2023-12-17</lastmod>
+</url>
+<url>
+<loc>https://drewler.net/tags</loc>
+<lastmod>2023-12-17</lastmod>
+</url>
+<url>
+<loc>https://drewler.net/blog/2023/12/godot-steam-deck-export-ssh</loc>
+<lastmod>2023-12-17T00:00:00.000Z</lastmod>
+</url>
+</urlset>
