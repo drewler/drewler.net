@@ -7,9 +7,19 @@
       <language>en-us</language>
       <managingEditor>undefined (Andrés Barreiro)</managingEditor>
       <webMaster>undefined (Andrés Barreiro)</webMaster>
-      <lastBuildDate>Sun, 17 Dec 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Sat, 30 Dec 2023 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://drewler.net/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://drewler.net/blog/2023/12/analogue-openfpga-video-modes</guid>
+    <title>Video Modes on Analogue openFPGA cores</title>
+    <link>https://drewler.net/blog/2023/12/analogue-openfpga-video-modes</link>
+    <description>Short explanation on how to set up video modes on Analogue openFPGA cores.</description>
+    <pubDate>Sat, 30 Dec 2023 00:00:00 GMT</pubDate>
+    <author>undefined (Andrés Barreiro)</author>
+    <category>analogue pocket</category><category>openfpga</category><category>gaming</category><category>tutorial</category>
+  </item>
+
   <item>
     <guid>https://drewler.net/blog/2023/12/godot-steam-deck-export-ssh</guid>
     <title>Exporting for Steam Deck with Godot</title>

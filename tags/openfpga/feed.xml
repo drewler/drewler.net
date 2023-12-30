@@ -8,7 +8,7 @@
       <managingEditor>undefined (Andrés Barreiro)</managingEditor>
       <webMaster>undefined (Andrés Barreiro)</webMaster>
       <lastBuildDate>Sat, 30 Dec 2023 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://drewler.net/tags/tutorial/feed.xml" rel="self" type="application/rss+xml"/>
+      <atom:link href="https://drewler.net/tags/openfpga/feed.xml" rel="self" type="application/rss+xml"/>
       
   <item>
     <guid>https://drewler.net/blog/2023/12/analogue-openfpga-video-modes</guid>
@@ -18,16 +18,6 @@
     <pubDate>Sat, 30 Dec 2023 00:00:00 GMT</pubDate>
     <author>undefined (Andrés Barreiro)</author>
     <category>analogue pocket</category><category>openfpga</category><category>gaming</category><category>tutorial</category>
-  </item>
-
-  <item>
-    <guid>https://drewler.net/blog/2023/12/godot-steam-deck-export-ssh</guid>
-    <title>Exporting for Steam Deck with Godot</title>
-    <link>https://drewler.net/blog/2023/12/godot-steam-deck-export-ssh</link>
-    <description>Guide for exporting a Godot project to the Steam Deck for development purposes.</description>
-    <pubDate>Sun, 17 Dec 2023 00:00:00 GMT</pubDate>
-    <author>undefined (Andrés Barreiro)</author>
-    <category>godot</category><category>steam deck</category><category>gamedev</category><category>tutorial</category>
   </item>
 
     </channel>
