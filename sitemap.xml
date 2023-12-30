@@ -2,19 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://drewler.net/</loc>
-<lastmod>2023-12-17</lastmod>
+<lastmod>2023-12-30</lastmod>
 </url>
 <url>
 <loc>https://drewler.net/blog</loc>
-<lastmod>2023-12-17</lastmod>
+<lastmod>2023-12-30</lastmod>
 </url>
 <url>
 <loc>https://drewler.net/projects</loc>
-<lastmod>2023-12-17</lastmod>
+<lastmod>2023-12-30</lastmod>
 </url>
 <url>
 <loc>https://drewler.net/tags</loc>
-<lastmod>2023-12-17</lastmod>
+<lastmod>2023-12-30</lastmod>
+</url>
+<url>
+<loc>https://drewler.net/blog/2023/12/analogue-openfpga-video-modes</loc>
+<lastmod>2023-12-30T00:00:00.000Z</lastmod>
 </url>
 <url>
 <loc>https://drewler.net/blog/2023/12/godot-steam-deck-export-ssh</loc>
